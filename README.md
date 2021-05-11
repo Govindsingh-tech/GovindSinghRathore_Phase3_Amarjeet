@@ -9,7 +9,7 @@ SportyShoes is a simple e-commerce website where admin can login and view all th
 Frontend - Maven, Bootstrap,JSP, HTML5 and CSS3 <br />
 Backend - Java <br />
 DATABASE - Hibernate, JPA, MySQL JDBC <br />
-Framework - SPRINGBOOT Dev Tools and SPRINGBOOT web
+Framework - SPRINGBOOT Dev Tools and SPRINGBOOT web <br />
 Application Server - Tomcat 9.0 Local server / Spring Tool Suite 4
 
 

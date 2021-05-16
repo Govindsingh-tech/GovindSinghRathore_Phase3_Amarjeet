@@ -1,4 +1,4 @@
-# GovindSinghRathore_Phase3_Naveen
+# GovindSinghRathore_Phase3_Amarjeet
 
 # SPORTYSHOES.com - E-COMMERCE website using SPRINGBOOT REST API & HIBERNATE (JPA)
 

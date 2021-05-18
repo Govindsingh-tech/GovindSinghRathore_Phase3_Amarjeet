@@ -1,4 +1,4 @@
-# Govind ingh Rathore - Phase3 Project
+# Govind Singh Rathore - Phase3 Project
 
 # SPORTYSHOES.com - E-COMMERCE website using SPRINGBOOT, SPRING MVC & HIBERNATE (JPA)
 
